@@ -1,5 +1,5 @@
 # Study for Computer Science Technical Interview
-> Since 2022.19.16
+> Since 2022.11.16
 
 ### Collaborator
 <p>
