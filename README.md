@@ -30,6 +30,12 @@
 |11월 5주차|멀티 스레드|최관호|[링크](https://www.notion.so/dev-choee/8de763f96fd84fff8fe9fba4c8e8c41a)|
 |11월 5주차|스케줄러|허서윤|[링크](https://wool-peace-c5d.notion.site/9d81e74eeb0b4c9db025298f9b97e10e)|
 |11월 5주차|CPU 스케줄러|홍승준|[링크](https://velog.io/@seungjun/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-CPU-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)|
+|12월 1주차|동기, 비동기와 IPC|최관호|[링크]()|
+|12월 1주차|프로세스 동기화|허서윤|[링크]()|
+|12월 1주차|메모리 관리 전략|강효민|[링크]()|
+|12월 1주차|가상 메모리|이남곤|[링크]()|
+|12월 1주차|캐시와 지역성|홍승준|[링크]()|
+
 
 ### Reference
 - [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
