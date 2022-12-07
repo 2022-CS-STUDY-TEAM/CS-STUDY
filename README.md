@@ -36,6 +36,13 @@
 ||가상 메모리|이남곤|[링크](https://ng-lee.github.io/os/virtual-memory/)|
 ||캐시와 지역성|홍승준|[링크](https://velog.io/@seungjun/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EC%BA%90%EC%8B%9C%EC%9D%98-%EC%A7%80%EC%97%AD%EC%84%B1)|
 
+## Network (네트워크) [🔝](#about)
+|주차|주제|이름|링크|
+|------|---|-----|------|
+|12월 2주차|OSI 7 Layer|허서윤|[링크]()|
+||TCP/UDP, TCP/IP 흐름제어 & 혼잡제어, UDP|최관호|[링크]()|
+||HTTP & HTTPS |이남곤|[링크]()|
+||Load Balancing + Blocking |홍승준|[링크]()|
 
 ### Reference
 - [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
