@@ -41,7 +41,7 @@
 |------|---|-----|------|
 |12월 2주차|OSI 7 Layer|허서윤|[링크](https://wool-peace-c5d.notion.site/OSI-7-Layer-557cc02f26da4e6f86e449f6bc4d362e)|
 ||TCP/UDP, TCP/IP 흐름제어 & 혼잡제어, UDP|최관호|[링크]()|
-||HTTP & HTTPS |이남곤|[링크]()|
+||HTTP & HTTPS |이남곤|[링크](https://ng-lee.github.io/network/http-vs-https/)|
 ||Load Balancing + Blocking |홍승준|[링크]()|
 
 ### Reference
