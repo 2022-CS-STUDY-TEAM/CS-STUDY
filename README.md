@@ -46,6 +46,7 @@
 ||TCP/UDP, TCP/IP 흐름제어 & 혼잡제어, UDP|최관호|[링크]()|
 ||HTTP & HTTPS |이남곤|[링크](https://ng-lee.github.io/network/http-vs-https/)|
 ||Load Balancing + Blocking |홍승준|[링크]()|
+||운영체제 정리|강효민|[링크](https://www.notion.so/7ccf70e2abd941bf9ee44c7a5dc0d217)|
 
 ### Reference
 - [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
