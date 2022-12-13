@@ -6,8 +6,8 @@
 <a href="https://github.com/ng-lee">
   <img src="https://github.com/ng-lee.png" width="100">
 </a>
-<a href="https://github.com/dev-choee">
-  <img src="https://github.com/dev-choee.png" width="100">
+<a href="https://github.com/choigwanho">
+  <img src="https://github.com/choigwanho.png" width="100">
 </a>
 <a href="https://github.com/seoyoon130">
   <img src="https://github.com/seoyoon130.png" width="100">
