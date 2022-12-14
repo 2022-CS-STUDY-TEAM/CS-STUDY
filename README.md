@@ -52,6 +52,11 @@
 ||TCP/UDP, TCP/IP 흐름제어 & 혼잡제어, UDP|최관호|[링크](https://www.notion.so/dev-choee/TCP-IP-UDP-0a0e28ed567f48d3adaffbadb2255958)|
 ||HTTP & HTTPS |이남곤|[링크](https://ng-lee.github.io/network/http-vs-https/)|
 ||Load Balancing + Blocking |홍승준|[링크](https://velog.io/@seungjun/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%A1%9C%EB%93%9C-%EB%B0%B8%EB%9F%B0%EC%8B%B1Load-Balancing)|
+|12월 4주차|네트워크 총 정리|강효민|[링크]()|
+||네트워크 총 정리|이남곤|[링크]()|
+||네트워크 총 정리|최관호|[링크]()|
+||네트워크 총 정리|허서윤|[링크]()|
+||네트워크 총 정리|홍승준|[링크]()|
 
 
 ### Reference
