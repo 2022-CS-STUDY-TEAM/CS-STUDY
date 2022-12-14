@@ -38,6 +38,12 @@
 ||메모리 관리 전략|최관호|[링크](https://dev-choee.notion.site/d7eb0746bb094e42977f247481da42eb)|
 ||가상 메모리|이남곤|[링크](https://ng-lee.github.io/os/virtual-memory/)|
 ||캐시와 지역성|홍승준|[링크](https://velog.io/@seungjun/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EC%BA%90%EC%8B%9C%EC%9D%98-%EC%A7%80%EC%97%AD%EC%84%B1)|
+|12월 2주차|운영체제 정리|강효민|[링크](https://www.notion.so/7ccf70e2abd941bf9ee44c7a5dc0d217)|
+|12월 3주차|운영체제 총 정리|강효민|[링크]()|
+||운영체제 총 정리|이남곤|[링크]()|
+||운영체제 총 정리|최관호|[링크]()|
+||운영체제 총 정리|허서윤|[링크]()|
+||운영체제 총 정리|홍승준|[링크]()|
 
 ## Network (네트워크) [🔝](#about)
 |주차|주제|이름|링크|
@@ -46,7 +52,7 @@
 ||TCP/UDP, TCP/IP 흐름제어 & 혼잡제어, UDP|최관호|[링크](https://www.notion.so/dev-choee/TCP-IP-UDP-0a0e28ed567f48d3adaffbadb2255958)|
 ||HTTP & HTTPS |이남곤|[링크](https://ng-lee.github.io/network/http-vs-https/)|
 ||Load Balancing + Blocking |홍승준|[링크](https://velog.io/@seungjun/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%A1%9C%EB%93%9C-%EB%B0%B8%EB%9F%B0%EC%8B%B1Load-Balancing)|
-||운영체제 정리|강효민|[링크](https://www.notion.so/7ccf70e2abd941bf9ee44c7a5dc0d217)|
+
 
 ### Reference
 - [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
