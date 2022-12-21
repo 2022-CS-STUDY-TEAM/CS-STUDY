@@ -26,7 +26,6 @@
 - 학습 범위에 대하여 모의면접을 진행하며 **질의응답** 형태로 문서화하는 것을 목표로 합니다.
 
 ## Operating System (운영체제) [🔝](#about)
-
 |주차|주제|이름|링크|
 |------|---|-----|------|
 |11월 5주차|프로세스와 스레드의 차이|이남곤|[링크](https://ng-lee.github.io/os/process-vs-thread/)|
@@ -39,9 +38,8 @@
 ||가상 메모리|이남곤|[링크](https://ng-lee.github.io/os/virtual-memory/)|
 ||캐시와 지역성|홍승준|[링크](https://velog.io/@seungjun/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EC%BA%90%EC%8B%9C%EC%9D%98-%EC%A7%80%EC%97%AD%EC%84%B1)|
 |12월 2주차|운영체제 정리|강효민|[링크](https://www.notion.so/7ccf70e2abd941bf9ee44c7a5dc0d217)|
-|12월 3주차|운영체제 총 정리|강효민|[링크]()|
-||운영체제 총 정리|이남곤|[링크]()|
-||운영체제 총 정리|최관호|[링크]()|
+|12월 3주차|운영체제 총 정리|이남곤|[링크]()|
+||운영체제 총 정리|최관호|[링크](https://choigwanho.notion.site/OS-2e05e6f7d8db478685c8d73c75f09084)|
 ||운영체제 총 정리|허서윤|[링크]()|
 ||운영체제 총 정리|홍승준|[링크]()|
 
@@ -52,8 +50,7 @@
 ||TCP/UDP, TCP/IP 흐름제어 & 혼잡제어, UDP|최관호|[링크](https://www.notion.so/dev-choee/TCP-IP-UDP-0a0e28ed567f48d3adaffbadb2255958)|
 ||HTTP & HTTPS |이남곤|[링크](https://ng-lee.github.io/network/http-vs-https/)|
 ||Load Balancing + Blocking |홍승준|[링크](https://velog.io/@seungjun/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%A1%9C%EB%93%9C-%EB%B0%B8%EB%9F%B0%EC%8B%B1Load-Balancing)|
-|12월 4주차|네트워크 총 정리|강효민|[링크]()|
-||네트워크 총 정리|이남곤|[링크]()|
+|1월 1주차|네트워크 총 정리|이남곤|[링크]()|
 ||네트워크 총 정리|최관호|[링크]()|
 ||네트워크 총 정리|허서윤|[링크]()|
 ||네트워크 총 정리|홍승준|[링크]()|
